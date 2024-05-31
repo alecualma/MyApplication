@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "248490769790",
+    "project_id": "sportspace-rent-iasi",
+    "storage_bucket": "sportspace-rent-iasi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248490769790:android:ecb680cd2a0763228b072f",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4-srM6RqeQNLBZK_kWWRLJrh9aLyFrkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248490769790:android:a956a2635e983b8d8b072f",
+        "android_client_info": {
+          "package_name": "com.example.sportspacerentiasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4-srM6RqeQNLBZK_kWWRLJrh9aLyFrkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248490769790:android:149a4ce133c3e0628b072f",
+        "android_client_info": {
+          "package_name": "com.example.uploadimagefirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4-srM6RqeQNLBZK_kWWRLJrh9aLyFrkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="go_to_maps">Go to maps</string>
+    <string name="go_to_reservations">Go to reservations</string>
+    <string name="select_training_type">Select Training Type</string>
+    <string name="prompt_day">Day</string>
+    <string name="prompt_month">Month</string>
+    <string name="prompt_year">Year</string>
+</resources>
